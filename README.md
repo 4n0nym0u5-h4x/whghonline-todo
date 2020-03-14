@@ -11,4 +11,5 @@ To-Do's für die Webseite
 - [ ] Medienordner Struktur bewahren
 - [ ] Startseite News-Modul
 - [ ] Webseitenordner aufräumen
-- [ ] Backup
+- [ ] Online Login Praktikum 9+11 Kl.
+- [x] Backup
